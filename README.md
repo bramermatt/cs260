@@ -1,20 +1,13 @@
-## 5-2 Milestone Four: Enhancement Three: Databases Narrative
+# 4-2 Milestone Three: Enhancement Two: Algorithms and Data Structure Narrative | Binary Search Tree Artifact Narrative
 
-1.	Briefly describe the artifact. What is it? When was it created?
+## Artifact Description
 
-Well, this one is a bit of an interesting one. I had a little trouble getting acclimated to this program. I apparently used some JMP program while using nearly 20 lines of SQL code. I was originally looking for a larger database created with SQL. However, this is what I must work with. And I’ve now updated the file to work with both inputting users manually in the SQL or importing a CSV.
-<br><br>
+The artifact is a C++ program that implements a Binary Search Tree (BST) to manage bid information, including creating, storing, displaying, and searching for bids. Originally created as part of a coursework assignment in the "Up to Speed in C++" lab series, this program showcases fundamental and advanced C++ programming skills, particularly in the context of data structures and algorithms.
 
-2.	Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?
+## Justification for Inclusion
 
-I struggle a bit with SQL, as I only worked with SQL once in my time with SNHU, so I thought this would be a good addition! Specific SQL syntax is going to be the best showcase of the artifact. 
-<br><br>
+I selected this artifact for my ePortfolio because it highlights my abilities in implementing and optimizing complex data structures. Specifically, the artifact demonstrates my proficiency in C++ and my understanding of efficient data management techniques. The BST implementation showcases my skills in algorithm design, while the enhancements—such as optimizing the search algorithm and handling edge cases—demonstrate my ability to improve existing code and ensure its robustness.
 
-3.	Did you meet the course objectives you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?
+## Reflection on Enhancement Process
 
-Yes, and no. Here were my enhancements: Retrieve Data, Preprocess Data, Choose Visualization, Implement Visualization, Enhance Visualization, and Interpretation. These all will be resolved by the end of the class! 
-<br><br>
-
-4.	Reflect on the process of enhancing and modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
-
-Ah, this was a fun one. Like the others I was able to come back to this nearly completely fresh. I hadn’t looked at the old assignments in a long time – for some. And it was good to come back. I did, however, sign up for a subscription for JMP a program that uses SQL to visualize data. It was something we used in the DAT220 class. Being a student, I was able to get a subscription for a full year free! I am still learning a lot, as I parse the data, and the code. SQL is a fun and understandable language that I hope to use in my career as a software engineer! 
+During the enhancement process, I learned the significance of writing efficient and maintainable code. Transitioning the search algorithm from a recursive to an iterative approach deepened my understanding of performance optimization. This process also highlighted the importance of thorough testing and validation to ensure that enhancements do not introduce bugs. The challenges I faced, particularly in optimizing the search algorithm and managing edge cases, were valuable learning experiences that improved my problem-solving skills and technical expertise.
